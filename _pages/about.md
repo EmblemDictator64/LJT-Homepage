@@ -52,7 +52,7 @@ Publications
    Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He  
    *NeurIPS 2023*
 
-The same list is available on my [publications page](/publications/) and my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+The same list is available on my [publications page]({{ site.baseurl }}/publications/) and my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 Skills
 ======
